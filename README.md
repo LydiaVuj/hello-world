@@ -1,2 +1,2 @@
 # hello-world
-New here. Still earning th ropes :)
+New here. Still earning the ropes :)
